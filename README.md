@@ -52,5 +52,9 @@ bindxxx="事件名"
 
 # ES6在小程序中的使用（module，class，promise，=>）
 ```
+# 程序展示
 ![image](https://github.com/junjieruan/ReaderMovie/raw/master/images/githubshow/1.png)
+![image](https://github.com/junjieruan/ReaderMovie/raw/master/images/githubshow/4.png)
+![image](https://github.com/junjieruan/ReaderMovie/raw/master/images/githubshow/2.png)
+![image](https://github.com/junjieruan/ReaderMovie/raw/master/images/githubshow/3.png)
  
